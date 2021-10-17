@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167434947433",
+    "project_id": "training-session-plannin-d10e5",
+    "storage_bucket": "training-session-plannin-d10e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167434947433:android:b90bdb0f350c35ec218bf8",
+        "android_client_info": {
+          "package_name": "com.tfg.trainingsessionplanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167434947433-i1i2dpits4rkhgrjlregrkuordq850ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWh5nkslMkWJvUl50n6L2lt_DLip2gaGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167434947433-i1i2dpits4rkhgrjlregrkuordq850ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
